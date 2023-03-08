@@ -1,8 +1,10 @@
 ## Hi, stranger. Me chamo Guilherme :grinning:
 
-- :bulb: Entre outras coisas; ouvinte assíduo de podcasts, fã de Guerrra nas Estrelas, Belchior e Hemingway (que, dentre estas coincidências da vida, também nasceu no dia 21/07). 
-- :open_book: Atualmente bacharelando em Matemática pelo Instituto de Matemática e Estatística da Universidade de São Paulo. Também sou estudante do programa <Ford-Enter>  pelo SENAI-SÃO PAULO em parceria com a Ford Fund.
-- :triangular_flag_on_post: Entusiasta da area de tecnologia, educação e matemática. 
+- :bulb: Entre outras coisas; ouvinte assíduo de podcasts, fã de Guerrra nas Estrelas, Estudio Ghibli, Belchior e Hemingway (que, dentre estas coincidências da vida, também nasceu no dia 21/07). 
+- :open_book: Atualmente bacharelando em Matemática pelo *Instituto de Matemática e Estatística da Universidade de São Paulo.* Também sou estudante do programa Ford-Enter pelo *Senai - São Paulo* em parceria com a *Ford Fund.*
+- :triangular_flag_on_post: Entusiasta da área de **tecnologia, educação e matemática.** 
+
+- :mailbox_with_mail: Estou sempre conectado; **guilhermefes@usp.br**
 
 <!--
 
