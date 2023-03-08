@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi stranger
 
+Me chamo Guilherme :grinning: Entre outras coisas; ouvinte assíduo de podcasts, fã de Guerrra nas Estrelas, Belchior e Hemingway (que, dentre as coincidências da vida, também nasceu no dia 21/07). 
+Atualmente bacharelando em Matemática pelo Instituto de Matemática e Estatística da Universidade de São Paulo. Também sou estudante do programa <Ford-Enter>  pelo SENAI-SÃO PAULO em parceria com a Ford Fund. 
+
+<!--
 
 **guilhermefes/guilhermefes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ -->
+ 
