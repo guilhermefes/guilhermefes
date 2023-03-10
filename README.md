@@ -5,7 +5,6 @@
 - :mag_right: Buscando formação profíssional em **engenharia de software** e/ou **ciência de dados.**  
 - :triangular_flag_on_post: Entusiasmado pelas áreas de **tecnologia, ciência, educação e matemática.** 
 
-- não sei oque alterar 
 - :mailbox_with_mail: Estou sempre conectado; **guilhermefes@usp.br**
 
 <!--
