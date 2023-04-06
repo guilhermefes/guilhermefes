@@ -1,4 +1,4 @@
-## Hi, stranger. Me chamo Guilherme 🖖
+## Hi, stranger. Me chamo Guilherme Ferreira Silva🖖
 
 - :bulb: Entre outras coisas; ouvinte assíduo de podcasts, fã de Guerrra nas Estrelas e Ernest Hemingway - este que, dentre estas coincidências da vida, também faz aniversário 21/07 -. 
 - :open_book: Atualmente **bacharelando e licenciando em Matemática** pelo *Instituto de Matemática e Estatística da Universidade de São Paulo.* Também sou estudante do programa **Ford-Enter** pelo *Senai São Paulo* em parceria com a *Ford Brasil* e *Ford Motor Company Fund.*
