@@ -1,7 +1,7 @@
-## Hi, stranger. Me chamo Guilherme :grinning:
+## Hi, stranger. Me chamo Guilherme 🖖
 
 - :bulb: Entre outras coisas; ouvinte assíduo de podcasts, fã de Guerrra nas Estrelas e Ernest Hemingway - este que, dentre estas coincidências da vida, também faz aniversário 21/07 -. 
-- :open_book: Atualmente **bacharelando e licenciando em Matemática** pelo *Instituto de Matemática e Estatística da Universidade de São Paulo.* Também sou estudante do programa **Ford-Enter** pelo *Senai São Paulo* em parceria com a *Ford Fund.*
+- :open_book: Atualmente **bacharelando e licenciando em Matemática** pelo *Instituto de Matemática e Estatística da Universidade de São Paulo.* Também sou estudante do programa **Ford-Enter** pelo *Senai São Paulo* em parceria com a *Ford Brasil* e *Ford Motor Company Fund.*
 - :mag_right: Buscando formação profíssional em **engenharia de software** e/ou **ciência de dados.**  
 - :triangular_flag_on_post: Entusiasmado pelas áreas de **tecnologia, ciência, educação e matemática.** 
 
